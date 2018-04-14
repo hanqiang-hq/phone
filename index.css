@@ -1,0 +1,138 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:47:46
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-03-17 20:30:31
+*/
+.waike{
+	width: 177px;
+	height: 339px;
+	border-radius: 14px;
+	margin: 0 50px 0;
+	float: left;
+}
+.shang{
+	position: relative;
+	width: 172px;
+	height: 39px;
+	background: #efb7a0;
+	border-top-right-radius: 14px;
+	border-top-left-radius: 14px;
+	overflow: hidden;
+}
+.dian1{
+	width: 10px;
+	height: 4px;
+	background: #000;
+	margin-left:55px; 
+	margin-top:20px;
+	float: left;
+	border-radius:20px; 
+}
+.dian2{
+	width: 25px;
+	height: 4px;
+	background: #000;
+	margin-left:10px; 
+	margin-top:20px;
+	float: left;
+	border-radius:20px; 
+}
+.dian3{
+	width: 6px;
+	height: 6px;
+	background: #000;
+	margin-left:10px; 
+	margin-top:19px;
+	float: left;
+	border-radius: 50%;
+}
+.zhong{
+	position: relative;
+	width:172px;
+	height: 300px;
+	background: #fff;
+	box-shadow: 0 2px 2px #000 inset;
+	
+}
+.zhong img{
+	width: 172px;
+}
+.xia{
+	overflow: hidden;
+	width:172px;
+	height: 50px;
+	background: #efb7a0;
+	border-bottom-right-radius: 14px;
+	border-bottom-left-radius: 14px;
+
+}
+.yuan{
+	width: 50px;
+	height: 15px;
+	background: #;
+	margin: 20px auto;
+	border-radius:15px; 
+	box-shadow: 0px 0px 5px #000 inset;
+
+}
+.jiajie{
+	position: absolute;
+	right: -4px;
+	top: 30px;
+	width: 4px;
+	height: 40px;
+	background: #a37c67;
+	border-radius: 20px;
+
+}
+.kaiji{
+	position: absolute;
+	right: -4px;
+	top: 90px;
+	width: 4px;
+	height: 20px;
+	background: #a37c67;
+	border-radius: 20px;
+
+}
+.logo{
+	position: absolute;
+	width: 15px;
+	height: 10px;
+	margin-left:10px; 
+	margin-top:12px;
+}
+.houmian{
+	width: 177px;
+	height: 389px;
+	background: #d3a6a1;
+	border-radius: 14px;
+	margin: 0 auto;
+	float: left;
+}
+.shexiang{
+	width: 30px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: #000;
+	border-radius: 50%;
+	float: left;
+}
+.shanguang{
+	width: 5px;
+	height: 25px;
+	background: #fff9d9;
+	margin-top: 12px;
+	margin-left:15px;
+	float: left;
+	border-radius: 15%;
+}
+.xiaomi{
+	width: 34px;
+	height: 23px;
+	background: yellow;
+	margin-top: 300px;
+	margin-left:75px;
+}
